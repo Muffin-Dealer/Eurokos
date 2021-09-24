@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<products>
+  <product id="123548">
+    <name>Kava</name>
+    <price>1.25</price>
+    <vatRate>25</vatRate>
+    <type>food</type>
+    <productionDate>2019-05-08</productionDate>
+    <expirationDate>2021-05-08</expirationDate>
+    <manufacturer>Kavos turgus</manufacturer>
+    <barcode>5564846513</barcode>
+    <barcode2>5564845135</barcode2>
+    <alias>skani kava</alias>
+    <alias>Gurmanu Kava</alias>
+    <originCountry>Mianmar</originCountry>
+    <originTown>Birma</originTown>
+    <productionCountry>Lithuania</productionCountry>
+    <productionTown>Kaunas</productionTown>
+    <supplierName>bigfood</supplierName>
+    <supplierCode>1236859</supplierCode>
+    <supplierAddress>islandijos 88A, Kaunas</supplierAddress>
+  </product>
+  <product id="S1284">
+    <name>spausdinimas</name>
+    <price>0.1</price>
+    <barcode2>1356484</barcode2>
+    <alias>spalvotas spausdini</alias>
+    <alias>pigus spaudinimas</alias>
+    <productionCountry>Lithuania</productionCountry>
+    <productionTown>Kaunas</productionTown>
+    <options>spalvotas</options>
+    <options>nespalvotas</options>
+    <options>kietu lapu</options>
+    <options>kartonu</options>
+  </product>
+</products>
